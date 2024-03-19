@@ -5,3 +5,4 @@ class test {
     console.log("This is test file");
   }
 }
+alert("Hello,");
